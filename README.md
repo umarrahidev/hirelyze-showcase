@@ -128,16 +128,6 @@ Add deployment URL
 
 ---
 
-## 👨‍💻 Developer
-
-**Umar Rahi**
-Full Stack Developer | AI Application Developer
-
-- LinkedIn: [https://linkedin.com/in/umarrahi2004](https://linkedin.com/in/umarrahi2004)
-- GitHub: [https://github.com/umarrahidev](https://github.com/umarrahidev)
-
----
-
 ## 📌 Note
 
 This repository is a frontend showcase of Hirelyze.
