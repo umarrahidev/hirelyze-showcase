@@ -44,12 +44,27 @@ The production backend, AI pipelines, prompts, and infrastructure are maintained
 - Framer Motion
 - REST API Integration
 
+### Backend (Production system)
+
+- Node.js
+- Express.js
+- Sequelize ORM
+- MySQL
+- JWT Authentication
+- Multer (File Uploads)
+- PDF Parsing
+- AI Agent Architecture
+- OpenRouter API
+- Llama 3.3 70B
+- Resume Analysis Pipelines
+
 ### Development Tools
 
 - Git
 - GitHub
 - VS Code
-- npm
+- Postman
+- Docker
 
 ---
 
