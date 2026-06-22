@@ -101,7 +101,7 @@ Hirelyze aims to bridge the gap between candidates and opportunities by combinin
 
 ## 📸 Screenshots
 
- <img alt="Self" src="./public/img.png">
+ <img alt="Hirelyze" src="./public/process.png">
 
 ```
 /screenshots
