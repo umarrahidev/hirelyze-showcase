@@ -103,9 +103,9 @@ Hirelyze aims to bridge the gap between candidates and opportunities by combinin
 
  <img alt="Hirelyze" src="./public/process.png">
 
-```
+<!--
 /screenshots
-```
+-->
 
 ---
 
@@ -134,15 +134,15 @@ Run development server:
 ```bash
 npm run dev
 ```
-
----
 <!--
+---
+
 ## 🌐 Live Demo
 
 Add deployment URL
--->
----
 
+---
+-->
 ## 📌 Note
 
 This repository is a frontend showcase of Hirelyze.
