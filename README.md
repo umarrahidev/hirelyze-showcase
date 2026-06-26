@@ -87,6 +87,31 @@ hirelyze-showcase/
 
 ---
 
+## 🔄 Resume Analyzing Flow
+
+```
+Upload Resume
+     │
+     ▼
+STEP 1 ── Parse Resume
+     │
+     ▼
+STEP 2 ── Normalize Location
+     │
+     ▼
+STEP 3 ── AI Resume Feedback   (CRITICAL — must succeed for a useful report)
+     │
+     ▼
+STEP 4 ── Job Recommendations
+     │
+     ▼
+   Report Ready
+```
+
+---
+
+---
+
 ## 🎯 Product Vision
 
 Hirelyze aims to bridge the gap between candidates and opportunities by combining:
